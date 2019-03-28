@@ -1,0 +1,139 @@
+Commodities=2
+Energy= .1
+commodity0	 is stable	1.738336
+commodity1	 is stable	1.738336
+T=10
+10350 ms
+
+Energy= .3
+commodity0	 is stable	5.738335999999999
+commodity1	 is stable	5.738335999999999
+T=10
+28098 ms
+
+Energy= .5
+commodity0	 is stable	9.738335999999999
+commodity1	 is stable	9.738335999999999
+T=10
+45866 ms
+
+Energy= .7
+commodity0	 is stable	13.738335999999999
+commodity1	 is stable	13.738335999999999
+T=10
+63864 ms
+
+Energy= .9
+commodity0	 is stable	14.625
+commodity1	 is stable	17.738335999999997
+T=10
+79746 ms
+
+Energy= 1
+commodity0	 is stable	14.625
+Energy= 3
+commodity0	 is stable	14.625
+Energy= 5
+commodity0	 is stable	14.625
+Energy= 7
+Energy= 9
+
+Commodities=5
+energy .1
+commodity0	 is stable	1.7499999999999998
+commodity1	 is stable	1.7499999999999998
+commodity3	 is stable	5.749999999999843
+commodity4	 is stable	9.99999999999998
+
+Energy= .3
+commodity0	 is stable	5.749999999999843
+commodity1	 is stable	5.749999999999843
+commodity3	 is stable	14.74909300736
+commodity4	 is stable	9.99999999999998
+
+Energy= .5
+commodity0	 is stable	9.749999999999988
+commodity1	 is stable	9.749999999999988
+commodity3	 is stable	14.74909300736
+commodity4	 is stable	9.99999999999998
+
+Energy= .7
+commodity0	 is stable	13.7499847660065
+commodity1	 is stable	13.7499847660065
+commodity3	 is stable	14.74909300736
+commodity4	 is stable	9.99999999999998
+
+Energy= .9
+commodity0	 is stable	14.625
+commodity1	 is stable	17.74
+commodity3	 is stable	14.74909300736
+commodity4	 is stable	9.99999999999998
+
+Commodities=15
+Energy=.1
+commodity0	 is stable	1.7499999999999998
+commodity1	 is stable	0.31999999999999995
+commodity1	 is stable	0.31999999999999995
+commodity3	 is stable	5.749999999999999
+commodity4	 is stable	9.99999999999998
+commodity6	 is stable	0.31999999999999995
+commodity7	 is stable	2.7499999999999996
+commodity9	 is stable	0.30999999999999995
+commodity13	 is stable	2.6499999999999995
+commodity14	 is stable	0.21999999999999995
+Energy=.3
+commodity0	 is stable	5.749999999999999
+commodity1	 is stable	0.6
+commodity3	 is stable	14.749998025674442
+commodity4	 is stable	9.99999999999998
+commodity6	 is stable	0.5600000000000002
+commodity7	 is stable	8.749999999999998
+commodity8	 is stable	14.999999999999963
+commodity9	 is stable	0.5
+commodity12	 is stable	14.749996709457404
+commodity13	 is stable	8.649999999999999
+commodity14	 is stable	0.5
+Energy=.5
+commodity0	 is stable	9.749999999999998
+commodity1	 is stable	0.7200000000000024
+commodity3	 is stable	14.749996709457404
+commodity4	 is stable	9.99999999999998
+commodity6	 is stable	0.7
+commodity7	 is stable	14.749996709457404
+commodity8	 is stable	14.999999999999963
+commodity9	 is stable	0.7
+commodity12	 is stable	14.749996709457404
+commodity13	 is stable	14.649998025674442
+commodity14	 is stable	0.6200000000000024
+Energy=.7
+commodity0	 is stable	13.749999999999998
+commodity1	 is stable	0.8999999999999999
+commodity3	 is stable	14.749999999999998
+commodity4	 is stable	9.99999999999998
+commodity6	 is stable	0.7999999999999999
+commodity7	 is stable	19.749804089589762
+commodity8	 is stable	14.999999999999963
+commodity9	 is stable	0.7999999999999999
+commodity12	 is stable	14.749999999999998
+commodity13	 is stable	14.649998025674442
+commodity14	 is stable	0.7999999999999999
+Energy=.9
+commodity0	 is stable	14.625
+commodity1	 is stable	0.9999999999999999
+commodity3	 is stable	14.749999995702323
+commodity4	 is stable	9.99999999999998
+commodity6	 is stable	0.9999999999999999
+commodity7	 is stable	19.749804089589762
+commodity8	 is stable	14.999999999999963
+commodity9	 is stable	0.8999999999999999
+commodity12	 is stable	14.749999995702323
+commodity13	 is stable	14.649998025674442
+commodity14	 is stable	0.8999999999999999
+
+eNERGY=1
+commodity1	 is stable	1.8000000000000005
+commodity6	 is stable	1.7000000000000004
+commodity9	 is stable	1.7000000000000004
+commodity14	 is stable	1.7000000000000004
+[240, 250, 251, 252, 253, 254, 255, 256, 569]
+ENERGY=3

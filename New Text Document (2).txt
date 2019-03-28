@@ -1,0 +1,17 @@
+g=15
+commodity0	 is stable	1.9000000000000006
+T=20
+2261 ms
+
+
+g=25
+commodity1	 is stable	14.659999999999979
+T=20
+12937 ms
+commodity1	 is stable	29.60000000000009
+T=20
+25439 ms
+commodity1	 is stable	59.60000000000034
+T=20
+49442 ms
+requirement reached 100

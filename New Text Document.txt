@@ -1,0 +1,52 @@
+buffer t=10 c=1 g=15
+commodity0	 is stable	2.1000000000000005
+T=10
+1486 ms
+commodity0	 is stable	3.700000000000002
+T=10
+2088 ms
+commodity0	 is stable	6.699999999999992
+T=10
+3052 ms
+commodity0	 is stable	29.738336000000007
+T=10
+11216 ms
+buffer t=15 c=1 g=20
+commodity0	 is stable	4.6
+T=15
+2494 ms
+commodity0	 is stable	9.199999999999983
+T=15
+4259 ms
+commodity0	 is stable	19.87617298209917
+T=15
+7589 ms
+commodity0	 is stable	49.56465446528525
+T=15
+4654 ms
+buffer t=20 c=1 g=25
+commodity0	 is stable	1.9000000000000006
+T=20
+1595 ms
+commodity0	 is stable	2.500000000000001
+T=20
+1882 ms
+commodity0	 is stable	10.599999999999978
+T=20
+5202 ms
+commodity0	 is stable	3.4000000000000017
+T=20
+2222 ms
+buffer t=25 c=1 g=30
+commodity0	 is stable	2.600000000000001
+T=25
+2166 ms
+commodity0	 is stable	2.500000000000001
+T=25
+2227 ms
+commodity0	 is stable	5.599999999999996
+T=25
+3577 ms
+commodity0	 is stable	7.099999999999991
+T=25
+4413 ms

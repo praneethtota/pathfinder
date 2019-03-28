@@ -1,0 +1,44 @@
+
+g=20
+100
+commodity1	 is stable	1.738336
+T=10
+2263 ms
+commodity1	 is stable	4.738335999999999
+T=10
+4562 ms
+commodity1	 is stable	6.738335999999999
+T=10
+5935 ms
+commodity1	 is stable	9.738335999999999
+T=10
+7852 ms
+g=15
+commodity1	 is stable	1.3536256
+T=10
+1819 ms
+commodity1	 is stable	3.353625599999999
+T=10
+3308 ms
+commodity1	 is stable	5.353625599999999
+T=10
+4738 ms
+commodity0	 is stable	7.320800000000006
+T=10
+6021 ms
+g=25
+commodity1	 is stable	1.738336
+T=10
+2291 ms
+commodity1	 is stable	4.738335999999999
+T=10
+4486 ms
+commodity1	 is stable	4.738335999999999
+T=10
+4496 ms
+commodity1	 is stable	6.738335999999999
+T=10
+5921 ms
+commodity1	 is stable	9.738335999999999
+T=10
+8075 ms
